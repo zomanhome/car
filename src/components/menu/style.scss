@@ -1,0 +1,17 @@
+.menu {
+  background: #2196f3;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+
+  li {
+    button {
+      border-radius: 0 !important;
+    }
+    a {
+      color: #fff !important;
+      display: block;
+    }
+  }
+}

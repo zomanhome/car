@@ -1,0 +1,17 @@
+.info {
+  padding: 10px 0;
+  display: flex;
+  div {
+    padding: 10px;
+  }
+  img {
+    opacity: 0.9;
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+.info-no-car {
+  padding: 10px 0;
+}
