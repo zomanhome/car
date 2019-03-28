@@ -1,0 +1,16 @@
+{
+  "main.css": "/cars/static/css/main.9b849b19.chunk.css",
+  "main.js": "/cars/static/js/main.4a3b90cd.chunk.js",
+  "main.js.map": "/cars/static/js/main.4a3b90cd.chunk.js.map",
+  "runtime~main.js": "/cars/static/js/runtime~main.b66e73c4.js",
+  "runtime~main.js.map": "/cars/static/js/runtime~main.b66e73c4.js.map",
+  "static/css/2.c835725d.chunk.css": "/cars/static/css/2.c835725d.chunk.css",
+  "static/js/2.7bbbbe6f.chunk.js": "/cars/static/js/2.7bbbbe6f.chunk.js",
+  "static/js/2.7bbbbe6f.chunk.js.map": "/cars/static/js/2.7bbbbe6f.chunk.js.map",
+  "index.html": "/cars/index.html",
+  "precache-manifest.17a30146fbbb12e094a9cef4367c8557.js": "/cars/precache-manifest.17a30146fbbb12e094a9cef4367c8557.js",
+  "service-worker.js": "/cars/service-worker.js",
+  "static/css/2.c835725d.chunk.css.map": "/cars/static/css/2.c835725d.chunk.css.map",
+  "static/css/main.9b849b19.chunk.css.map": "/cars/static/css/main.9b849b19.chunk.css.map",
+  "static/media/index.css": "/cars/static/media/roboto-latin-900italic.bc833e72.woff"
+}
